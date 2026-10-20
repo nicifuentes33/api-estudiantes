@@ -17,3 +17,4 @@ artifacts:
     - main.py
     - requirements.txt
     - Dockerfile
+  discard-paths: no
